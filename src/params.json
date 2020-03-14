@@ -1,9 +1,9 @@
 {
-    "name": "Weather Icons v1",
+    "name": "Weather Icons v2",
     "alias": "witsec-weather-icons",
-    "version": 1,
+    "version": 2,
     "minAppVersion": "4",
     "plugins": ["weather-icons"],
     "description": "Add weather icons to your website. <a href='https://witsec.nl'>Learn more...</a>",
-    "logo": "thumbnail.png"
+    "logo": "thumbnail.svg"
 }
